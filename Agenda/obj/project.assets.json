@@ -6382,11 +6382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\CapacitacionUTN\\repo\\Agenda\\Agenda\\Agenda.csproj",
+      "projectUniqueName": "C:\\Users\\Sampini\\Source\\Repos\\Project-CSharp\\Agenda\\Agenda\\Agenda.csproj",
       "projectName": "Agenda",
-      "projectPath": "D:\\Develop\\CapacitacionUTN\\repo\\Agenda\\Agenda\\Agenda.csproj",
+      "projectPath": "C:\\Users\\Sampini\\Source\\Repos\\Project-CSharp\\Agenda\\Agenda\\Agenda.csproj",
       "packagesPath": "C:\\Users\\Sampini\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\CapacitacionUTN\\repo\\Agenda\\Agenda\\obj\\",
+      "outputPath": "C:\\Users\\Sampini\\Source\\Repos\\Project-CSharp\\Agenda\\Agenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
